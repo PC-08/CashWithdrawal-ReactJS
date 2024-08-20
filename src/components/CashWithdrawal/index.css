@@ -1,0 +1,85 @@
+/* Write your CSS here */
+
+.bg {
+  padding: 10px;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'roboto';
+}
+
+.card {
+  width: 400px;
+  background-color: #150b3e;
+  border-radius: 10px;
+  padding: 25px;
+}
+
+.top {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.profile {
+  background-color: #c7d2fe;
+  color: #7c3aed;
+  padding: 25px;
+  font-weight: bold;
+  border-top-left-radius: 50px;
+  border-top-right-radius: 50px;
+  border-bottom-left-radius: 50px;
+  border-bottom-right-radius: 50px;
+  font-size: 18px;
+  padding-right: 30px;
+  border: 2px solid #7c3aed;
+  margin-right: 15px;
+}
+.name {
+  color: #d4d2db;
+  font-weight: 400;
+  font-size: 26px;
+}
+
+.between {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.para1 {
+  color: #585076;
+  font-size: 22px;
+  font-weight: 400;
+}
+
+.para2 {
+  color: #585076;
+  font-size: 14px;
+}
+
+.bal {
+  font-weight: bold;
+  font-size: 26px;
+  color: #c4c4c4;
+}
+
+.head2 {
+  color: #c4c4c4;
+  font-weight: 500;
+  font-size: 24px;
+}
+
+.para3 {
+  color: #585076;
+}
+
+.ul {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 0px;
+  flex-wrap: wrap;
+}
